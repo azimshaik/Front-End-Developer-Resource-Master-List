@@ -1,9 +1,4 @@
-<html>
-<head>
-<title>Front End Tool Resource List</title>
-
-</head>
-<body>
+# Front End Developer Resource Master List
 
 Special thanks to [Roman Liutikov](https://github.com/roman01la) for this handy list!
 
@@ -195,7 +190,3 @@ Special thanks to [Roman Liutikov](https://github.com/roman01la) for this handy 
 *   [MoSync](http://www.mosync.com/)
 *   [Enyo](http://enyojs.com/)
 *   [Adobe PhoneGap Build](https://build.phonegap.com/)
-
-
-</body>
-</html>
