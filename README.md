@@ -5,9 +5,9 @@
 </head>
 <body>
 
-## JavaScript Frameworks
+Special thanks to [Roman Liutikov](https://github.com/roman01la) for this handy list!
 
-List of the most popular and also probably unknown js frameworks:
+## JavaScript Frameworks
 
 *   [jQuery](http://jquerymobile.com/)
 *   [Dojo Toolkit](http://dojotoolkit.org/)
@@ -49,8 +49,6 @@ List of the most popular and also probably unknown js frameworks:
 
 ## CSS/HTML Frameworks
 
-CSS/HTML Frameworks and responsive grids:
-
 *   [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
 *   [Foundation](http://foundation.zurb.com/)
 *   [Blueprint](http://www.blueprintcss.org/)
@@ -74,8 +72,6 @@ CSS/HTML Frameworks and responsive grids:
 
 ## UI Frameworks
 
-Tools for building web UI:
-
 *   [jQuery UI](http://jqueryui.com/)
 *   [Kendo UI](http://www.kendoui.com/)
 *   [MochaUI](https://github.com/mui/mochaui)
@@ -91,23 +87,17 @@ Tools for building web UI:
 
 ## CSS Preprocessors
 
-Make your CSS job easier and more awesome:
-
 *   [Sass](http://sass-lang.com/)
-
-        *   [Compass](http://compass-style.org/)
-    *   [Bourbon](http://bourbon.io/)
-    *   [Singularity.gs](http://singularity.gs/)
-    *   [Breakpoint](http://breakpoint-sass.com/)
-
+*   [Compass](http://compass-style.org/)
+*   [Bourbon](http://bourbon.io/)
+*   [Singularity.gs](http://singularity.gs/)
+*   [Breakpoint](http://breakpoint-sass.com/)
 *   [Less](http://lesscss.org/)
 *   [Stylus](http://learnboost.github.com/stylus/)
 *   [Switch CSS](http://sourceforge.net/projects/switchcss/)
 *   [CSS Cacheer](http://shauninman.com/archive/2008/05/30/check_out_css_cacheer)
 
 ## Templating
-
-Template engines to be more effective:
 
 *   [Jade](http://jade-lang.com/)
 *   [Handlebars](http://handlebarsjs.com/)
@@ -117,8 +107,6 @@ Template engines to be more effective:
 *   [EJS](https://github.com/visionmedia/ejs)
 
 ## Boilerplates
-
-Great way to start your project:
 
 *   [HTML5 Boilerplate](http://html5boilerplate.com/)
 *   [Mobile Boilerplate](http://html5boilerplate.com/mobile/)
@@ -131,15 +119,11 @@ Great way to start your project:
 
 ## CSS Reset
 
-Reduce browser inconsistencies in CSS:
-
 *   [Eric Meyer’s “Reset CSS”](http://meyerweb.com/eric/tools/css/reset/)
 *   [Normalize.css](http://necolas.github.com/normalize.css/)
 *   [Normalize.css in SCSS](https://github.com/JohnAlbin/normalize.css-with-sass-or-compass)
 
 ## Cross Browser Development
-
-Libraries for cross browser development:
 
 *   [html5shiv](http://code.google.com/p/html5shiv/)
 *   [Modernizr](http://modernizr.com/)
@@ -152,8 +136,6 @@ Libraries for cross browser development:
 
 ## In-Browser Tools
 
-Be productive. Use these tools to make your workflow faster and clean:
-
 *   [Chrome DevTools](http://www.chromium.org/devtools)
 *   [Firebug](http://getfirebug.com/)
 *   [LiveReload](http://livereload.com/)
@@ -162,8 +144,6 @@ Be productive. Use these tools to make your workflow faster and clean:
 
 ## Coding Tools
 
-Write valid code and do it faster:
-
 *   [Emmet](http://docs.emmet.io/)
 *   [JSHint](http://www.jshint.com/)
 *   [CSSLint](http://csslint.net/)
@@ -171,8 +151,6 @@ Write valid code and do it faster:
 *   [CSScomb](http://csscomb.ru/)
 
 ## Editors and IDEs
-
-The most popular editors:
 
 *   [Sublime Text](http://www.sublimetext.com/)
 *   [Coda](http://panic.com/coda/)
@@ -189,8 +167,6 @@ The most popular editors:
 
 ## Testing &amp; Analyzing
 
-Test your code in different browsers on particular platform and more:
-
 *   [Errorception](http://errorception.com/)
 *   [Mobitest](http://mobitest.akamai.com/)
 *   [WebPageTest](http://www.webpagetest.org/)
@@ -204,8 +180,6 @@ Test your code in different browsers on particular platform and more:
 
 ## Web Apps Development Tools
 
-These tools can save you a lot of time:
-
 *   [Brunch](http://brunch.io/)
 *   [Grunt](http://gruntjs.com/)
 *   [Meteor](http://meteor.com/)
@@ -215,14 +189,13 @@ These tools can save you a lot of time:
 
 ## Mobile Apps Development Tools
 
-A bunch of tools for better mobile development:
-
 *   [PhoneGap](http://phonegap.com/)
 *   [Sencha](http://www.sencha.com/)
 *   [Appcelerator](http://www.appcelerator.com/)
 *   [MoSync](http://www.mosync.com/)
 *   [Enyo](http://enyojs.com/)
 *   [Adobe PhoneGap Build](https://build.phonegap.com/)
+
 
 </body>
 </html>
